@@ -1,0 +1,45 @@
+site_name: TipBot Help / Documents
+site_url: https://tipbot-docs.btipz.com/
+theme:
+  name: material
+  features:
+    - navigation.footer
+nav:
+    - Home: index.md
+    - Basic: basic_discord_commands.md
+    - Advanced: advanced_discord_commands.md
+    - Bidding / Auction: auction_commands.md
+    - CEXSwap: cexswap_commands.md
+    - Economy: economy_commands.md
+    - Faucet: faucet_commands.md
+    - Game: game_commands.md
+    - Guild Shop: gshop_commands.md
+    - Market (P2P trade): market_commands.md
+    - MEME: memepls_commands.md
+    - Nanswap: nanswap_commands.md
+    - TB (Fun): tb_commands.md
+    - Vault: vault_commands.md
+    - Voting: voting_commands.md
+    - Voucher: voucher_commands.md
+    - About: about.md
+repo_url: https://github.com/0xBTIPZ/TipBot-Docs
+plugins:
+  - search:
+      lang: en
+extra:
+  generator: false
+  consent:
+    title: Cookie consent
+    description: >- 
+      We use cookies to recognize your repeated visits and preferences, as well
+      as to measure the effectiveness of our documentation and whether users
+      find what they're searching for. With your consent, you're helping us to
+      make our documentation better.
+  social:
+    - icon: fontawesome/brands/discord
+      link: http://join.btipz.com
+    - icon: fontawesome/brands/twitter 
+      link: https://twitter.com/BotTipsTweet
+    - icon: fontawesome/brands/github
+      link: https://github.com/0xBTIPZ
+copyright: Copyright &copy; 2013 BTIPZ Team
