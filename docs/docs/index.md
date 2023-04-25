@@ -1,17 +1,27 @@
-# Home TipBot Help
+# Home
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Our Discord TipBot is working only with / (slash command) as required by Discord.
 
-## Commands
+If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+### YouTube guides
 
-## Project layout
+* TipBot v2 Playlist: <https://www.youtube.com/playlist?list=PLdhRV9sbg4Cqwn8CuaZJ_hAjnnpscOLum>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Our Discord
+
+* WrkzCoin: <https://discordapp.com/invite/GpHzURM>
+
+* BTIPZ: <http://join.btipz.com>
+
+* Bot invitation link: <http://invite.discord.bot.tips>
+
+### TipBot directory links
+
+* topgg: <https://top.gg/bot/474841349968101386/>
+
+* discordbotlist: <https://discordbotlist.com/bots/tipbot/>
+
+* discords.com: <https://discords.com/bots/bot/474841349968101386>
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wrkzcoin/TipBot&type=Date)](https://star-history.com/#wrkzcoin/TipBot&Date)
