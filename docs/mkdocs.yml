@@ -21,6 +21,7 @@ nav:
     - Vault: vault_commands.md
     - Voting: voting_commands.md
     - Voucher: voucher_commands.md
+    - Other links: other_links.md
     - About: about.md
 repo_url: https://github.com/0xBTIPZ/TipBot-Docs
 plugins:
