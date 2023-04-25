@@ -4,6 +4,7 @@ on:
     branches:
       - master 
       - main
+      - First-WIP
 permissions:
   contents: write
 jobs:
