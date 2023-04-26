@@ -1,28 +1,19 @@
-# Discord Commands
+# TB Commands
 
-If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
+TipBot has some fun with `/tb`.
 
-## Command Notes
+![TB sub-command](img/static/tb-commands.jpg){ width="450" }
 
-TODO: Some commands
+![TB sub-commands](img/animated/tb-cmd.gif){ width="450" }
 
-### Deposit
+* `/tb getemoji emoji:` You can get emoji code including animated emoji.
 
-TODO /deposit /balance
+![tb getemoji](img/static/tb-getemoji.jpg){ width="450" }
 
-### Withdraw
+* `/tb firework member:` Make firework from any user in your Discord guild.
 
-TODO /withdraw
+![tb firework](img/animated/tb-firework.gif){ width="450" }
 
-### Tipping
+* `/tb praise member:` Praise someone in your Discord Guild.
 
-TODO /tip /tipall /last etc
-
-### Rain / Drop
-
-TODO /partydrop /freetip /quickdrop etc.
-
-### Guild's command
-
-
-
+![tb praise](img/animated/tb-praise.gif){ width="450" }

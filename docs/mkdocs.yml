@@ -11,8 +11,9 @@ nav:
     - Bidding / Auction: auction_commands.md
     - CEXSwap: cexswap_commands.md
     - Economy: economy_commands.md
-    - Faucet: faucet_commands.md
+    - Faucet & Reward: faucet_commands.md
     - Game: game_commands.md
+    - Guild: guild_commands.md
     - Guild Shop: gshop_commands.md
     - Market (P2P trade): market_commands.md
     - MEME: memepls_commands.md
@@ -20,7 +21,6 @@ nav:
     - Tag: tag_commands.md
     - TB (Fun): tb_commands.md
     - Vault: vault_commands.md
-    - Voting: voting_commands.md
     - Voucher: voucher_commands.md
     - Other links: other_links.md
     - FAQ: faq.md
