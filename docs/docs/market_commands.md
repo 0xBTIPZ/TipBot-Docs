@@ -1,28 +1,10 @@
-# Discord Commands
+# Market Commands
 
-If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
+`/market` is the old trading feature in TipBot where people can trade an exact amount to another people using p2p method. For better trade experience, we suggest you to use with [CEXSwap](./cexswap_commands.md)
 
-## Command Notes
-
-TODO: Some commands
-
-### Deposit
-
-TODO /deposit /balance
-
-### Withdraw
-
-TODO /withdraw
-
-### Tipping
-
-TODO /tip /tipall /last etc
-
-### Rain / Drop
-
-TODO /partydrop /freetip /quickdrop etc.
-
-### Guild's command
-
+<figure markdown>
+  ![Market commands](img/static/claim-command.jpg){ width="450" }
+  <figcaption>Market commands</figcaption>
+</figure>
 
 
