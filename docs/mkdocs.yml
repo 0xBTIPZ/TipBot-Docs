@@ -24,7 +24,6 @@ nav:
     - Voucher: voucher_commands.md
     - Other links: other_links.md
     - FAQ: faq.md
-    - About: about.md
 repo_url: https://github.com/0xBTIPZ/TipBot-Docs
 plugins:
   - search:
