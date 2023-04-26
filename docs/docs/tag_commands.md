@@ -1,21 +1,29 @@
-# About
+# Tag commands
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+TipBot allows you to add some tags so you can easily call them anytime you would like to show to other Discord users in your Guild.
 
-## Our Discord
+<figure markdown>
+  ![Tag commands](img/static/tag-commands.jpg){ width="450" }
+  <figcaption>Tag command</figcaption>
+</figure>
 
-<http://join.btipz.com>
+* `/tag add` TipBot will popup and ask your input about tag name and description
 
-## Commands
+<figure markdown>
+  ![Tag add](img/static/tag-add.jpg){ width="450" }
+  <figcaption>Tag add sub-command</figcaption>
+</figure>
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `/tag show` Let TipBot show you the description correspondent to a **tag**.
 
-## Project layout
+<figure markdown>
+  ![Tag show](img/static/tag-show.jpg){ width="450" }
+  <figcaption>Tag show sub-command</figcaption>
+</figure>
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* `/tag delete tag_name:` Delete a **tag** from your Discord Guild.
+
+<figure markdown>
+  ![Tag delete](img/static/tag-delete.jpg){ width="450" }
+  <figcaption>Tag delete sub-command</figcaption>
+</figure>
