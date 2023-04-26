@@ -1,4 +1,4 @@
-# Game commands
+# Game Commands
 
 There are a few game commands and they could give you random cryptocurrency rewards. Guild owner or guild moderator could turn game feature ON/OFF in their guild with command `/setting game`, it will toggle between on and off. Guild moderator could also assign a specific game to a dedicated channel via command `/setting gamechan game:`, bot will the channel where you type to that specific game.
 

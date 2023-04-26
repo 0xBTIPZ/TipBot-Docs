@@ -1,4 +1,4 @@
-# Guild commands
+# Guild Commands
 
 Guild commands are executed only in public. Another feature of crypto tipping with guild of our TipBot, it's possible you can let your Guild's moderator(s) to use your Guild's tipjar to tip other people with command `/guild tip`.
 
