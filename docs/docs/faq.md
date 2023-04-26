@@ -1,21 +1,12 @@
-# About
+# FAQ
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
 
-## Our Discord
+* Where can I see the supported coin/tokens list?
 
-<http://join.btipz.com>
+You can check with `/coinlist` commands or go to <http://coininfo.bot.tips/>
 
-## Commands
+## Can't find in this?
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+[Our Discord](http://join.btipz.com)
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.

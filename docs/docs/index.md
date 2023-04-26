@@ -4,6 +4,8 @@ Our Discord TipBot is working only with / (slash command) as required by Discord
 
 If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
 
+To get started, you should start with [basic commands](./basic_discord_commands.md).
+
 ### YouTube guides
 
 * TipBot v2 Playlist: <https://www.youtube.com/playlist?list=PLdhRV9sbg4Cqwn8CuaZJ_hAjnnpscOLum>
