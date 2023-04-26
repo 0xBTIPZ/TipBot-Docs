@@ -1,4 +1,4 @@
-# Adavacned Tipping Commands
+# Adavanced Tipping Commands
 
 If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
 

@@ -1,28 +1,28 @@
-# Discord Commands
+# Faucet & Reward commands
 
-If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
+TipBot has a built-in faucet with a random coins.
 
-## Command Notes
+## Bot's faucet
 
-TODO: Some commands
+* `/take` You can get a random faucet from this command every **24h**. Make sure you do it in public and in an assigned channel if it's not your own private Discord Guild.
 
-### Deposit
+This Bot's faucet is different from `/faucet` command. Please see [Guild Command](./guild_commands.md).
 
-TODO /deposit /balance
+## Bot vote's reward
 
-### Withdraw
+* `/claim token:` There are currently three vote reward that supports with TipBot. Before getting rewards, you need to set what coin/token you prefer as a reward for Bot's voting and you set it only once. In case you want to change to another coin/token, you need to execute `/claim token:` again.
 
-TODO /withdraw
+<figure markdown>
+  ![Claim command](img/static/claim-command.jpg){ width="450" }
+  <figcaption>Claim command (for TipBot's vote reward)</figcaption>
+</figure>
 
-### Tipping
+* <https://top.gg/bot/474841349968101386/vote>
 
-TODO /tip /tipall /last etc
+* <https://discordbotlist.com/bots/tipbot/upvote>
 
-### Rain / Drop
+* <https://discords.com/bots/bot/474841349968101386/vote>
 
-TODO /partydrop /freetip /quickdrop etc.
-
-### Guild's command
 
 
 
