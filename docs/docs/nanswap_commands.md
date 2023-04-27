@@ -1,28 +1,24 @@
-# Discord Commands
+# Nanswap command
 
-If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
+If you have any issue with these help, kindly join our Discord <http://join.btipz.com>{:target="_blank"}.
 
-## Command Notes
+`/nanswap` command (with sub-commands) allow you to trade with dozen of coin/tokens on <https://nanswap.com/>{:target="_blank"} using their API.
 
-TODO: Some commands
+<figure markdown>
+  ![Nanswap command](img/animated/nanswap.gif){ width="450" }
+  <figcaption>Nanswap command</figcaption>
+</figure>
 
-### Deposit
+Other `/nanswap` commands:
 
-TODO /deposit /balance
+<figure markdown>
+  ![Nanswap commands](img/static/nanswap-cmds.jpg){ width="450" }
+  <figcaption>Other nanswap commands</figcaption>
+</figure>
 
-### Withdraw
+### Note
 
-TODO /withdraw
-
-### Tipping
-
-TODO /tip /tipall /last etc
-
-### Rain / Drop
-
-TODO /partydrop /freetip /quickdrop etc.
-
-### Guild's command
+If you have any issue with delaying of exchange using `/nanswap`, take note and share the nanswap ID given by TipBot. You can also check the ID with command `/nanswap check id:`
 
 
 

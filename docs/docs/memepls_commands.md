@@ -1,28 +1,35 @@
-# Discord Commands
+# Memepls Commands
 
-If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
+Memepls command allow your Discord User to upload MEME image in your Guild. Other people can also browse all uploaded MEME in your Guild and they could tip from their tip balance to the uploader.
 
-## Command Notes
+Each uploaded MEME needs to be approved by Guild's moderator or owner.
 
-TODO: Some commands
+![Memepls command](img/static/memepls-commands.jpg){ width="450" }
 
-### Deposit
+## View
 
-TODO /deposit /balance
+* `/memepls view` Anyone can view uploaded MEME randomly and they could use the interactive buttons to tip the uploader.
 
-### Withdraw
+<figure markdown>
+  ![MEME View & Tip](img/static/memepls-view.jpg){ width="450" }
+  <figcaption>MEME View & Tip</figcaption>
+</figure>
 
-TODO /withdraw
+## View
 
-### Tipping
+* `/memepls upload` You need to input caption and attach an image file (PNG or JPEG)
 
-TODO /tip /tipall /last etc
+<figure markdown>
+  ![MEME Upload](img/static/memepls-upload.jpg){ width="450" }
+  <figcaption>MEME Upload</figcaption>
+</figure>
 
-### Rain / Drop
+## Other MEME Commands
 
-TODO /partydrop /freetip /quickdrop etc.
+* `/memepls review meme_id:` Guild Moderator to review pending uploaded MEME by their Discord Guild.
 
-### Guild's command
+* `/memepls user user:` View randomly uploaded MEME by a user.
 
+* `/memepls list` View your uploaded MEME.
 
-
+* `/setting memepls` Toggle MEME commands ON/OFF in your Guild.

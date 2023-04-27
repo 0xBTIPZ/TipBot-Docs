@@ -1,28 +1,15 @@
-# Discord Commands
+# Adavanced Tipping Commands
 
 If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
 
-## Command Notes
+## Tipping
 
-TODO: Some commands
+* `/z amount_coin_list_to:` You can tip multiple cryptocurrency at once to one or more Discord users.
 
-### Deposit
-
-TODO /deposit /balance
-
-### Withdraw
-
-TODO /withdraw
-
-### Tipping
-
-TODO /tip /tipall /last etc
-
-### Rain / Drop
-
-TODO /partydrop /freetip /quickdrop etc.
-
-### Guild's command
+<figure markdown>
+  ![Tip with /z command](img/static/tipping-z.jpg){ width="450" }
+  <figcaption>Tipping with /z command</figcaption>
+</figure>
 
 
 

@@ -1,28 +1,22 @@
-# Discord Commands
+# Voucher Commands
 
-If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
+TipBot could allow you to create voucher(s) and let other users (even not in Discord) to claim cryptocurrency from your tip balance. Currently, we support few coins including **WRKZ, WOW, GNTL**. We could expand the support to other coins/tokens in the future if there are more demands and requests.
 
-## Command Notes
+<figure markdown>
+  ![Voucher commands](img/static/voucher-commands.jpg){ width="450" }
+  <figcaption>Voucher command</figcaption>
+</figure>
 
-TODO: Some commands
+## Make & Claim
 
-### Deposit
+Each time you create one or more vouchers, TipBot will deduct from your tip balance.
 
-TODO /deposit /balance
+<figure markdown>
+  ![Voucher make](img/animated/voucher-make.gif){ width="450" }
+  <figcaption>Make voucher</figcaption>
+</figure>
 
-### Withdraw
-
-TODO /withdraw
-
-### Tipping
-
-TODO /tip /tipall /last etc
-
-### Rain / Drop
-
-TODO /partydrop /freetip /quickdrop etc.
-
-### Guild's command
-
-
-
+<figure markdown>
+  ![Voucher make](img/static/voucher-redeem.jpg){ width="450" }
+  <figcaption>Link to claim voucher</figcaption>
+</figure>
