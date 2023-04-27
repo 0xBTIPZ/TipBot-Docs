@@ -14,13 +14,19 @@ In case you would like to go to plain format of the address. `/deposit token: do
 
 **Note**: Some coin/token requires <ins>MEMO</ins>. Please always include your unique <ins>MEMO</ins> if requires.
 
-![Deposit coin/token](img/animated/deposit.gif){ width="450" }
+<figure markdown>
+  ![Deposit coin/token](img/animated/deposit.gif){ width="450" }
+  <figcaption>Deposit command</figcaption>
+</figure>
 
 ### Checking balance(s)
 
 The balance can be checked everytime with `/balance <token name>`. If you would like to check all coins/tokens, please use `/balances` (with s). It's possible to check a coin/token's balance from `/deposit` menu. You would see a button "Balance".
 
-![Check coin/token's balance](img/animated/balance.gif){ width="450" }
+<figure markdown>
+  ![Check coin/token's balance](img/animated/balance.gif){ width="450" }
+  <figcaption>Balance(s) command</figcaption>
+</figure>
 
 **Note**: You can sort your balance by value $ or by alphabet. You can also add a coin/token to your favorite with the menu "Add" or "Remove". The favorite coins/tokens will be shown at the first page when you command `/balances`.
 
@@ -28,17 +34,37 @@ The balance can be checked everytime with `/balance <token name>`. If you would 
 
 The command `/withdraw` is the same as `/send`. You can check each coin's withdraw fee with `/coininfo coin: coin_name`. Each withdraw, TipBot will ask for a confirmation with a fee.
 
-![Withdraw/send command](img/animated/withdraw-send.gif){ width="450" }
+<figure markdown>
+  ![Withdraw/send command](img/animated/withdraw-send.gif){ width="450" }
+  <figcaption>Withdraw/Send command</figcaption>
+</figure>
 
 For tokens such as Stellar assets, you can use `/transfer token:` command. TipBot will popup and allow you to give MEMO. For CryptoNote coin, `/transfer token:` will allow you to give Payment Id.
 
-![Transfer command](img/animated/transfer.gif){ width="450" }
+<figure markdown>
+  ![Transfer command](img/animated/transfer.gif){ width="450" }
+  <figcaption>Transfer command</figcaption>
+</figure>
 
 ### Tipping
 
 Tipping can be done with `/tip` command. Bot will popup all necessary parameters and optionally additional parameter(s). Simple tipping is done by `/tip amount:1k token:wrkz args:@Rogerrobers#6434`. `arg:` can be by mention people or roles. TipBot also support the `args:` with `last 10u` for those 10 people who chatted in the tipping channel.
 
-![Tip command](img/animated/tipping.gif){ width="450" }
+<figure markdown>
+  ![Basic tip command](img/animated/tipping.gif){ width="450" }
+  <figcaption>Basic tip command</figcaption>
+</figure>
+
+* `/tip amount: token: args:last 30mn`: This will tip the last users who actively texted last 30 minutes in the commanded channel.
+
+* `/tipall amount: token:` This will spread the amount of coin to all online users in the Guild (by default). Example: `/tipall 10 doge` will spread your only 10 doge to all online users in the commanded Guild.
+
+<figure markdown>
+  ![Tip all command](img/animated/tipall-command.gif){ width="450" }
+  <figcaption>Tipall command</figcaption>
+</figure>
+
+* `/randtip amount: token:` Do a random tip to a Discord user in the commanded guild.
 
 ### Rain / Drop
 
@@ -78,4 +104,3 @@ TipBot contains a few commands for rain such as:
   ![/partydrop](img/static/partydrop.jpg){ width="450" }
   <figcaption>/partydrop command</figcaption>
 </figure>
-
