@@ -16,9 +16,10 @@ Other `/nanswap` commands:
   <figcaption>Other nanswap commands</figcaption>
 </figure>
 
-### Note
-
-If you have any issue with delaying of exchange using `/nanswap`, take note and share the nanswap ID given by TipBot. You can also check the ID with command `/nanswap check id:`
+!!! note
+    If you have any issue with delaying of exchange using `/nanswap`, 
+    take note and share the nanswap ID given by TipBot. 
+    You can also check the ID with command `/nanswap check id:`
 
 
 

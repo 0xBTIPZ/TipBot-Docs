@@ -12,7 +12,10 @@ Example `/balance token: wrkz`, `/balance token: doge`.
 
 In case you would like to go to plain format of the address. `/deposit token: doge plain: plain`.
 
-**Note**: Some coin/token requires <ins>MEMO</ins>. Please always include your unique <ins>MEMO</ins> if requires.
+!!! note "Extra MEMO / PaymentId for deposit"
+
+    Some coin/token requires <ins>MEMO</ins>.
+    Please always include your unique <ins>MEMO</ins> if requires.
 
 <figure markdown>
   ![Deposit coin/token](img/animated/deposit.gif){ width="450" }
@@ -28,7 +31,10 @@ The balance can be checked everytime with `/balance <token name>`. If you would 
   <figcaption>Balance(s) command</figcaption>
 </figure>
 
-**Note**: You can sort your balance by value $ or by alphabet. You can also add a coin/token to your favorite with the menu "Add" or "Remove". The favorite coins/tokens will be shown at the first page when you command `/balances`.
+!!! note
+    You can sort your balance by value $ or by alphabet.
+    You can also add a coin/token to your favorite with the menu "Add" or "Remove".
+    The favorite coins/tokens will be shown at the first page when you command `/balances`.
 
 ### Withdraw / Send
 
