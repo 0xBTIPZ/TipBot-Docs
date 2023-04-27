@@ -61,6 +61,6 @@ Every trade, user will get **99%** of the traded coin. The other **1%** will be 
 
 ## API For CEXSwap
 
-* <https://tipbot-public-api.cexswap.cc/manual>
+* <https://tipbot-public-api.cexswap.cc/manual>{:target="_blank"}
 
-* <https://github.com/wrkzcoin/TipBot/blob/development/CEXSWAP_API.md>
+* <https://github.com/wrkzcoin/TipBot/blob/development/CEXSWAP_API.md>{:target="_blank"}

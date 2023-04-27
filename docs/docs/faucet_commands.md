@@ -17,11 +17,11 @@ This Bot's faucet is different from `/faucet` command. Please see [Guild Command
   <figcaption>Claim command (for TipBot's vote reward)</figcaption>
 </figure>
 
-* <https://top.gg/bot/474841349968101386/vote>
+* <https://top.gg/bot/474841349968101386/vote>{:target="_blank"}
 
-* <https://discordbotlist.com/bots/tipbot/upvote>
+* <https://discordbotlist.com/bots/tipbot/upvote>{:target="_blank"}
 
-* <https://discords.com/bots/bot/474841349968101386/vote>
+* <https://discords.com/bots/bot/474841349968101386/vote>{:target="_blank"}
 
 
 

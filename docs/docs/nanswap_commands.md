@@ -1,8 +1,8 @@
 # Nanswap command
 
-If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
+If you have any issue with these help, kindly join our Discord <http://join.btipz.com>{:target="_blank"}.
 
-`/nanswap` command (with sub-commands) allow you to trade with dozen of coin/tokens on <https://nanswap.com/> using their API.
+`/nanswap` command (with sub-commands) allow you to trade with dozen of coin/tokens on <https://nanswap.com/>{:target="_blank"} using their API.
 
 ![Nanswap command](img/animated/nanswap.gif){ width="450" }
 

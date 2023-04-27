@@ -12,7 +12,7 @@ nav:
     - CEXSwap: cexswap_commands.md
     - Economy: economy_commands.md
     - Faucet & Reward: faucet_commands.md
-    - Game: game_commands.md
+    - Games: game_commands.md
     - Guild: guild_commands.md
     - Guild Shop: gshop_commands.md
     - Market (P2P trade): market_commands.md
