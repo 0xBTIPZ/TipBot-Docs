@@ -24,6 +24,12 @@ You can check each coin/token's information with `/coininfo coin:`, TipBot will 
 
     * Be patient and join our supported Guild for faster check.
 
+!!! note
+
+    * For a quick help, we advise you to join our Discord help channel either in [WrkzCoin](http://chat.wrkz.work){:target="_blank"} or in [BTIPZ](http://join.btipz.com){:target="_blank"}. Please try to explain your issue about deposit in more detail and better post your issue in public channel and avoid Direct Message with anyone even Dev (unless there's something you don't want other peopl eto see.)
+
+    * Ask a smart question. Avoid general questions like "My deposit hasn't arrived.", "Why I don't see my deposit?" etc.
+
 ## I would like to request adding a new coin/token.
 
 Fill a form in <https://forms.gle/WjtG7JacgeP8s4VKA>{:target="_blank"} and join our Discord <http://join.btipz.com>{:target="_blank"}.
