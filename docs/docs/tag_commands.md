@@ -1,4 +1,4 @@
-# Tag commands
+# Tag Commands
 
 TipBot allows you to add some tags so you can easily call them anytime you would like to show to other Discord users in your Guild.
 

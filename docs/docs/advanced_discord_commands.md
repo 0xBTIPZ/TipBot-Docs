@@ -1,6 +1,6 @@
 # Adavanced Tipping Commands
 
-If you have any issue with these help, kindly join our Discord <http://join.btipz.com>.
+If you have any issue with these help, kindly join our Discord <http://join.btipz.com>{:target="_blank"}.
 
 ## Tipping
 
@@ -10,6 +10,3 @@ If you have any issue with these help, kindly join our Discord <http://join.btip
   ![Tip with /z command](img/static/tipping-z.jpg){ width="450" }
   <figcaption>Tipping with /z command</figcaption>
 </figure>
-
-
-

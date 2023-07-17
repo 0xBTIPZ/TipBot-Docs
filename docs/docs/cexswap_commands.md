@@ -13,6 +13,11 @@ By providing liquidity on TipBot is also a risk. Traders can swap or dump any am
 
 * `/cexswap addliquidity pool_name:` You can add liquidity or create a new liquidity pool through this command. Bot will popup with an input. For an existing pool, TipBot will adjust the rate based on what is in existing pool. If you are the first one who provide the liquidity pool of a pair, the new rate will be based on yours.
 
+<figure markdown>
+  ![CEXSwap adding liquidity pool](img/animated/cexswap-addlp.gif){ width="450" }
+  <figcaption>CEXSwap - Adding Liquidity Pool</figcaption>
+</figure>
+
 * `/cexswap removeliquidity pool_name: percentage:` You can remove your existing pool in CEXSwap from 10% to 100%.
 
 * `/cexswap mypool` Check your liquidity pools with TipBot.

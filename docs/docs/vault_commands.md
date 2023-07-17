@@ -15,6 +15,5 @@ Use dropdown menu to select coin/token and follow the menu's instruction if you 
 
 ![TipBot Vault WOW](img/static/vault-view-select-wow.jpg){ width="450" }
 
-## Note
-
-**You can backup only once for each coin/token.**
+!!! note
+    **You can backup only once for each coin/token.**
